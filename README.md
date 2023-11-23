@@ -14,3 +14,6 @@ Every page on Magic Galaxy is meticulously crafted with a bespoke approach to co
 
 **CSS Preprocessor:**
 Magic Galaxy harnesses the power of SaaS (CSS) as a preprocessor, offering a robust and efficient styling solution. This choice not only enhances the maintainability and readability of our stylesheets but also ensures cross-browser compatibility. With the SaaS preprocessor, Magic Galaxy provides a seamless experience, allowing users to access the website effortlessly across various browsers without compromising on visual quality or functionality.
+
+**Link to netlify:**
+https://gleeful-centaur-1254d6.netlify.app/
